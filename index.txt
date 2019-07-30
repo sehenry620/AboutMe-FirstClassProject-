@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Stephanie Henry</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body>
+<h1>Stephanie Henry</h1>
+<h2>Email: sehenry620@gmail.com</h2>
+<h2>Fun Fact:</h2>
+<p>I was born in Frankfurt, Germany</p>
+<h2>My Hobbies:</h2>
+    <ol>
+        <li>Music (playing drums, being a DJ)</li>
+        <li>Soccer</li>
+        <li>Video games</li>
+        <li>Being outdoors (hiking, kayaking, walks in the park)</li>
+        <li>Tattoos</li>
+        <li>Being a dog mom</li>
+    </ol>
+<h2>What I'm excited about:</h2>
+<p>I'm excited to learn more about coding and using my knowledge for a better career.</p>
+<h2>Favorite place on the web:</h2>
+<p>Probably <a href="http://www.youtube.com" target="_blank">YouTube</a> because I like watching informative videos.</p>
+<h2>What motivated me to this class?</h2>
+<p>Having the opportunity to make more money!</p>
+
+<table>
+        <tr>
+          <th>Poster</th>
+          <th>Details</th>
+        </tr>
+        <tr>
+          <td><img src="https://m.media-amazon.com/images/M/MV5BMTY3OTg2OTM3OV5BMl5BanBnXkFtZTYwNzY5OTA3._V1_UX182_CR0,0,182,268_AL_.jpg" alt="White Chicks" /></td>
+          <td>
+              <ul>
+                  <li>White Chicks</li>
+                  <li>Keenan Ivory Wayans</li>
+                  <li>5.6/10</li>
+              </ul>
+          </td>
+        </tr>
+        <tr>
+          <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Project_X_poster.png/220px-Project_X_poster.png" /></td>
+          <td>
+              <ul>
+                  <li>Project X</li>
+                  <li>Nima Nourizadeh</li>
+                  <li>6.7/10</li>
+              </ul>
+          </td>
+        </tr>
+        <tr>
+            <td><img src="https://resizing.flixster.com/isguyuNDbXn5HKtU9py0z06dc9Q=/206x305/v1.bTsxMTIxNDQ4MztqOzE4MjE5OzEyMDA7MTUzNjsyMDQ4" />
+            <td> 
+                <ul>
+                    <li>Accepted</li>
+                    <li>Adam Cooper & Bill Collage</li>
+                    <li>6.5/10</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Princess_diaries_ver1.jpg/220px-Princess_diaries_ver1.jpg" />
+            <td>
+                <ul>
+                    <li>Princess Diaries</li>
+                    <li>Garry Marshall</li>
+                    <li>6.3/10</li>
+                </ul>
+            </td>
+            </td>
+        </tr>
+        <tr>
+            <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Men_in_Black_Poster.jpg/220px-Men_in_Black_Poster.jpg" />
+            <td>
+                <ul>
+                    <li>Men in Black</li>
+                    <li>Barry Sonnenfeld</li>
+                    <li>7.3/10</li>
+                </ul>
+            </td>
+
+            </td>
+        </tr>
+      </table>
+</html>
